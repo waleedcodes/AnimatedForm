@@ -147,7 +147,7 @@ body {
 
     .container {
         margin: 1.3rem;
-        padding: 8px;
+        padding: 23px 10px;
     }
 
     .container .form .inputBox {
@@ -155,7 +155,7 @@ body {
     }
 
     .main_h2 {
-        padding: 1.4rem 1.4rem 0.3rem 1.4rem;
+        padding: 3rem 1.4rem 1rem 1.4rem;
         text-align: center;
         font-size: 1.2rem;
     }
